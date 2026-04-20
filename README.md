@@ -69,3 +69,9 @@ El sistema debe permitir:
 - Evitar incluir información innecesaria en el modelo.
 - Priorizar los comportamientos por sobre los datos.
 - Justificar las decisiones de diseño tomadas.
+
+---
+
+## 🛅 UML 
+
+![](https://raw.githubusercontent.com/unahur-obj2-2026c1/movilidad-urbana-Santiago-Capdevila/refs/heads/main/Sistema%20de%20Movilidad%20Urbana.drawio.png)
